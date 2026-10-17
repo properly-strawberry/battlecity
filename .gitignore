@@ -1,0 +1,27 @@
+# ---- Game data and files generated from it (copyrighted; never share) ----
+# ROM dumps (the user's own Battle City dump, test ROMs such as apu_test.nes,
+# and the copy next to the playtest exe in re/build/win/)
+*.[nN][eE][sS]
+# raw PRG/CHR split for Ghidra/REA (python3 re/tools/rom.py --extract)
+re/rom/
+# full disassembly listing: reassembles byte-identical to the PRG
+# (regenerate with `make -C re listing`)
+re/docs/battlecity.asm
+# build outputs: binaries, plus game screenshots (shots/*.ppm), audio dumps
+# (apu/*.f32), emulator save states and RAM dumps of the original
+re/build/
+
+# ---- Build outputs ----
+*.o
+__pycache__/
+re/third_party/fceux_headless/obj/
+re/third_party/fceux_headless/fceux_headless
+# stray builds of the emulator (verify_all.sh and the tools use build/nesrun)
+re/tools/emu/nesrun
+re/tools/emu/libnes.so
+
+# ---- Vendored downloads (fetch again from upstream) ----
+re/third_party/SDL3-*/
+
+# ---- Local Claude Code state (agent worktrees) ----
+.claude/

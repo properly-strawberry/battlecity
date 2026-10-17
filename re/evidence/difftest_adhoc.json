@@ -1,0 +1,14 @@
+[
+ {
+  "addr": "CC5C",
+  "movie": "fceux_2p_20k.txt",
+  "out": "",
+  "summary": "CC5C: 853 pass, 0 fail, 0 skipped (original did not return), 0 waited, 197 invalid fuzz (jump table out of range or outside the input domain); 288 entries seen, 150 sampled",
+  "passed": 853,
+  "failed": 0,
+  "skipped": 0,
+  "waited": 0,
+  "invalid": 197,
+  "status": "pass"
+ }
+]

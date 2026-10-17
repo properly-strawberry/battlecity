@@ -1,0 +1,22 @@
+# Addresses whose mechanical translation is replaced by hand-written C.
+# One hex address per line; '#' comments. Regenerate: make (runs tools/lift.py)
+# cells.c -- nametable shadow, terrain cells, VRAM queue, joypads
+D5FB
+D709
+D713
+D706
+D725
+D71E
+D73C
+D784
+D743
+D74D
+D764
+D771
+D7AA
+D684
+D635
+D612
+D689
+D6B3
+D6DD

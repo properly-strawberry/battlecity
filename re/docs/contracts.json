@@ -1,0 +1,1451 @@
+{
+ "C070": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C295": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C2A2": {
+  "always_sets": "ACZN",
+  "clobbers": "ACZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C2B3": {
+  "always_sets": "AXZN",
+  "clobbers": "AXZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C2BD": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C2E6": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C31D": {
+  "always_sets": "AZN",
+  "clobbers": "ACZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C331": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C3B5": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C41D": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C44B": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C49C": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C567": {
+  "always_sets": "ACZN",
+  "clobbers": "ACZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C575": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C5B0": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C5D9": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C642": {
+  "always_sets": "AXCZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C6C6": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C6D2": {
+  "always_sets": "ACZN",
+  "clobbers": "AYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C71E": {
+  "always_sets": "AXZN",
+  "clobbers": "AXZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C728": {
+  "always_sets": "AZN",
+  "clobbers": "ACZNV",
+  "in": "",
+  "out": "Z",
+  "preserves": ""
+ },
+ "C7AB": {
+  "always_sets": "ACZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C7C8": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C830": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C859": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C894": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "A",
+  "out": "XY",
+  "preserves": ""
+ },
+ "C8A2": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "A",
+  "out": "",
+  "preserves": ""
+ },
+ "C8B1": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "A",
+  "out": "",
+  "preserves": ""
+ },
+ "C8C0": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C8D0": {
+  "always_sets": "ACZN",
+  "clobbers": "ACZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C8F9": {
+  "always_sets": "AZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C947": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C972": {
+  "always_sets": "AZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C9B0": {
+  "always_sets": "AXYCZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "C9C0": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "CA6F": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "CA74": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "CA7E": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "CA85": {
+  "always_sets": "ACZNV",
+  "clobbers": "ACZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "CA91": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "CAF5": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "CB5D": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "CB9E": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "X",
+  "preserves": ""
+ },
+ "CC08": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "Y",
+  "preserves": ""
+ },
+ "CC27": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "CC5C": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "Y",
+  "out": "",
+  "preserves": ""
+ },
+ "CC90": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "CCB2": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "CCD4": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "CEF7": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D0B8": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D0D9": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D130": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "AY",
+  "out": "",
+  "preserves": ""
+ },
+ "D138": {
+  "always_sets": "ACZN",
+  "clobbers": "ACZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D16A": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D17F": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D276": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "D400": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "AXYCV",
+  "out": "",
+  "preserves": ""
+ },
+ "D44D": {
+  "always_sets": "AXCZNV",
+  "clobbers": "AXCZNV",
+  "in": "X",
+  "out": "AX",
+  "preserves": ""
+ },
+ "D467": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D470": {
+  "always_sets": "ACZN",
+  "clobbers": "ACZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D47E": {
+  "always_sets": "AXZN",
+  "clobbers": "AXZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D491": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D4E3": {
+  "always_sets": "AXZN",
+  "clobbers": "AXZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D4EF": {
+  "always_sets": "AXCZN",
+  "clobbers": "AXCZN",
+  "in": "",
+  "out": "Z",
+  "preserves": ""
+ },
+ "D502": {
+  "always_sets": "AXYCZN",
+  "clobbers": "AXYCZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D50E": {
+  "always_sets": "AXYCZN",
+  "clobbers": "AXYCZN",
+  "in": "A",
+  "out": "",
+  "preserves": ""
+ },
+ "D53E": {
+  "always_sets": "AXYZN",
+  "clobbers": "AXYZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D5F5": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D5FB": {
+  "always_sets": "AYCZN",
+  "clobbers": "AYCZN",
+  "in": "XY",
+  "out": "AY",
+  "preserves": ""
+ },
+ "D612": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "XY",
+  "out": "",
+  "preserves": ""
+ },
+ "D635": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AYCZNV",
+  "in": "XY",
+  "out": "Y",
+  "preserves": ""
+ },
+ "D684": {
+  "always_sets": "ACZN",
+  "clobbers": "ACZN",
+  "in": "A",
+  "out": "A",
+  "preserves": "XY"
+ },
+ "D689": {
+  "always_sets": "AXYCZN",
+  "clobbers": "AXYCZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D6B3": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "XY",
+  "out": "Y",
+  "preserves": ""
+ },
+ "D6DD": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "XY",
+  "out": "",
+  "preserves": ""
+ },
+ "D706": {
+  "always_sets": "AXYCZN",
+  "clobbers": "AXYCZN",
+  "in": "XY",
+  "out": "Y",
+  "preserves": ""
+ },
+ "D709": {
+  "always_sets": "AYCZN",
+  "clobbers": "AYCZN",
+  "in": "XY",
+  "out": "Y",
+  "preserves": ""
+ },
+ "D713": {
+  "always_sets": "AXYCZN",
+  "clobbers": "AXYCZN",
+  "in": "XY",
+  "out": "XY",
+  "preserves": ""
+ },
+ "D71E": {
+  "always_sets": "AXYCZN",
+  "clobbers": "AXYCZN",
+  "in": "XY",
+  "out": "Y",
+  "preserves": ""
+ },
+ "D725": {
+  "always_sets": "AZN",
+  "clobbers": "ACZN",
+  "in": "",
+  "out": "",
+  "preserves": "Y"
+ },
+ "D73C": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "Y",
+  "out": "Z",
+  "preserves": "Y"
+ },
+ "D743": {
+  "always_sets": "AXCZNV",
+  "clobbers": "AXCZNV",
+  "in": "XY",
+  "out": "",
+  "preserves": "Y"
+ },
+ "D74D": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "Y",
+  "out": "",
+  "preserves": ""
+ },
+ "D764": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "Y",
+  "out": "",
+  "preserves": ""
+ },
+ "D771": {
+  "always_sets": "ACZNV",
+  "clobbers": "ACZNV",
+  "in": "Y",
+  "out": "",
+  "preserves": "Y"
+ },
+ "D784": {
+  "always_sets": "AXCZNV",
+  "clobbers": "AXCZNV",
+  "in": "AXY",
+  "out": "X",
+  "preserves": "Y"
+ },
+ "D7AA": {
+  "always_sets": "ACZNV",
+  "clobbers": "ACZNV",
+  "in": "A",
+  "out": "",
+  "preserves": "XY"
+ },
+ "D7B4": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D7CC": {
+  "always_sets": "AXYCZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D80B": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "AXY",
+  "out": "",
+  "preserves": ""
+ },
+ "D85E": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "AXY",
+  "out": "",
+  "preserves": ""
+ },
+ "D8D2": {
+  "always_sets": "AYCZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D8F6": {
+  "always_sets": "ACZN",
+  "clobbers": "ACZN",
+  "in": "",
+  "out": "",
+  "preserves": "XY"
+ },
+ "D8FD": {
+  "always_sets": "AXCZN",
+  "clobbers": "AXCZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D934": {
+  "always_sets": "ACZN",
+  "clobbers": "AXYCZN",
+  "in": "XY",
+  "out": "X",
+  "preserves": ""
+ },
+ "D951": {
+  "always_sets": "AYCZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "D97D": {
+  "always_sets": "AXYCZN",
+  "clobbers": "AXYCZN",
+  "in": "",
+  "out": "Y",
+  "preserves": ""
+ },
+ "D9BE": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "D9E1": {
+  "always_sets": "AXZN",
+  "clobbers": "AXCZN",
+  "in": "A",
+  "out": "",
+  "preserves": ""
+ },
+ "D9FE": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DA13": {
+  "always_sets": "AXCZN",
+  "clobbers": "AXCZNV",
+  "in": "A",
+  "out": "",
+  "preserves": ""
+ },
+ "DA2B": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "XY",
+  "out": "",
+  "preserves": ""
+ },
+ "DA64": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "AXY",
+  "out": "",
+  "preserves": ""
+ },
+ "DA73": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "AXY",
+  "out": "",
+  "preserves": ""
+ },
+ "DA7B": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "XY",
+  "out": "",
+  "preserves": ""
+ },
+ "DA93": {
+  "always_sets": "AXCZNV",
+  "clobbers": "AXCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "DAAF": {
+  "always_sets": "",
+  "clobbers": "AZN",
+  "in": "ACZ",
+  "out": "A",
+  "preserves": "X"
+ },
+ "DB0B": {
+  "always_sets": "AXZN",
+  "clobbers": "AXZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "DB38": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "X",
+  "out": "Z",
+  "preserves": ""
+ },
+ "DB48": {
+  "always_sets": "AZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "DB75": {
+  "always_sets": "AZN",
+  "clobbers": "AXCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "DBF0": {
+  "always_sets": "",
+  "clobbers": "",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "DBF1": {
+  "always_sets": "AXCZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "DC3D": {
+  "always_sets": "AYCZN",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DC52": {
+  "always_sets": "ACZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DC7C": {
+  "always_sets": "AXCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DD48": {
+  "always_sets": "AXCZNV",
+  "clobbers": "AXCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DD6E": {
+  "always_sets": "CZN",
+  "clobbers": "ACZNV",
+  "in": "A",
+  "out": "A",
+  "preserves": ""
+ },
+ "DD76": {
+  "always_sets": "CZN",
+  "clobbers": "ACZNV",
+  "in": "A",
+  "out": "A",
+  "preserves": "X"
+ },
+ "DD7E": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DD89": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DD94": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DDA2": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "AX",
+  "preserves": ""
+ },
+ "DDEA": {
+  "always_sets": "AZN",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DE46": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "DE55": {
+  "always_sets": "ACZN",
+  "clobbers": "ACZN",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DE64": {
+  "always_sets": "ACZN",
+  "clobbers": "AYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DE72": {
+  "always_sets": "ACZN",
+  "clobbers": "AXCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DEA6": {
+  "always_sets": "AXYCZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "DEB8": {
+  "always_sets": "AYCZN",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DECD": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DEE2": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "AXY",
+  "out": "",
+  "preserves": ""
+ },
+ "DEF0": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "AXY",
+  "out": "",
+  "preserves": ""
+ },
+ "DEFD": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DF33": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "DF46": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "DF99": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "A",
+  "out": "XY",
+  "preserves": ""
+ },
+ "DFB6": {
+  "always_sets": "ACZN",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "E00B": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "E02E": {
+  "always_sets": "AXYCZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E03C": {
+  "always_sets": "AYCZN",
+  "clobbers": "AYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "E051": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "E063": {
+  "always_sets": "ACZNV",
+  "clobbers": "ACZNV",
+  "in": "XY",
+  "out": "",
+  "preserves": "XY"
+ },
+ "E076": {
+  "always_sets": "AZN",
+  "clobbers": "ACZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "E08C": {
+  "always_sets": "AZN",
+  "clobbers": "AYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": "X"
+ },
+ "E0D8": {
+  "always_sets": "AXYCZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E0E6": {
+  "always_sets": "AYCZN",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "E0FB": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "E112": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "E122": {
+  "always_sets": "AXZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E162": {
+  "always_sets": "AZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E181": {
+  "always_sets": "AXZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E1F3": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "Y",
+  "out": "",
+  "preserves": "X"
+ },
+ "E1FA": {
+  "always_sets": "AXZN",
+  "clobbers": "AXYCZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E234": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "Y",
+  "out": "",
+  "preserves": "X"
+ },
+ "E23B": {
+  "always_sets": "AZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E27C": {
+  "always_sets": "AXZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E2A9": {
+  "always_sets": "AZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E312": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E317": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E31C": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E328": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "AXY",
+  "out": "",
+  "preserves": ""
+ },
+ "E32E": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E336": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E33E": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E363": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "E3B8": {
+  "always_sets": "ACZN",
+  "clobbers": "AYCZNV",
+  "in": "X",
+  "out": "",
+  "preserves": ""
+ },
+ "E409": {
+  "always_sets": "AXZN",
+  "clobbers": "AXZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E413": {
+  "always_sets": "AXZN",
+  "clobbers": "AXZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E420": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "AX",
+  "out": "",
+  "preserves": "X"
+ },
+ "E42B": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E451": {
+  "always_sets": "ACZN",
+  "clobbers": "ACZN",
+  "in": "A",
+  "out": "AN",
+  "preserves": "X"
+ },
+ "E604": {
+  "always_sets": "AXCZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E693": {
+  "always_sets": "AXYCZN",
+  "clobbers": "AXYCZNV",
+  "in": "XY",
+  "out": "YZ",
+  "preserves": ""
+ },
+ "E69A": {
+  "always_sets": "AZN",
+  "clobbers": "AXYCZNV",
+  "in": "Y",
+  "out": "",
+  "preserves": ""
+ },
+ "E70C": {
+  "always_sets": "AXCZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "X",
+  "preserves": ""
+ },
+ "E8BE": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "X",
+  "preserves": ""
+ },
+ "E902": {
+  "always_sets": "ACZNV",
+  "clobbers": "ACZNV",
+  "in": "A",
+  "out": "A",
+  "preserves": "X"
+ },
+ "E910": {
+  "always_sets": "AZN",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "E972": {
+  "always_sets": "AZN",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "X",
+  "preserves": ""
+ },
+ "E9F0": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "X",
+  "out": "",
+  "preserves": "X"
+ },
+ "E9F5": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "",
+  "out": "",
+  "preserves": "X"
+ },
+ "E9FB": {
+  "always_sets": "AZN",
+  "clobbers": "AXYCZNV",
+  "in": "X",
+  "out": "X",
+  "preserves": ""
+ },
+ "EA07": {
+  "always_sets": "ACZN",
+  "clobbers": "ACZNV",
+  "in": "X",
+  "out": "",
+  "preserves": "X"
+ },
+ "EA17": {
+  "always_sets": "AYCZN",
+  "clobbers": "AYCZN",
+  "in": "",
+  "out": "",
+  "preserves": "X"
+ },
+ "EA3E": {
+  "always_sets": "AZN",
+  "clobbers": "AZN",
+  "in": "X",
+  "out": "",
+  "preserves": "X"
+ },
+ "EA48": {
+  "always_sets": "",
+  "clobbers": "",
+  "in": "",
+  "out": "",
+  "preserves": "X"
+ },
+ "EA51": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "EA7E": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "EC0A": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "EC21": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "EC33": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "EC45": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "EC57": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "EC61": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "EC6B": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "EC75": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "EC81": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "A",
+  "out": "",
+  "preserves": ""
+ },
+ "EC85": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "A",
+  "out": "",
+  "preserves": ""
+ },
+ "EC88": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "EC99": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "ECA5": {
+  "always_sets": "AYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "ECAF": {
+  "always_sets": "AXCZN",
+  "clobbers": "AXCZN",
+  "in": "",
+  "out": "",
+  "preserves": ""
+ },
+ "ECBE": {
+  "always_sets": "AYZN",
+  "clobbers": "AYZN",
+  "in": "",
+  "out": "A",
+  "preserves": "X"
+ },
+ "ECD0": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "A",
+  "out": "",
+  "preserves": ""
+ },
+ "F000": {
+  "always_sets": "AXYCZNV",
+  "clobbers": "AXYCZNV",
+  "in": "A",
+  "out": "",
+  "preserves": ""
+ }
+}
